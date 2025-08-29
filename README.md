@@ -1,1 +1,2 @@
-# TryHackMe_CTFs
+# TryHackMe_Challanges
+
